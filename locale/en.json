@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Modular Code Structure",
+    "description": "One folder per page with frontend/ and backend/ inside, 300-line files, 400 hard cap."
+  }
+}
